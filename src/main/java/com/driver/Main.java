@@ -16,15 +16,16 @@ public class Main {
             return x * y * z;
         }
 
-        ///  Task 5:
+        ///  Task 5
         ///  * create a Overloaded method product of following defination
-        ///  * public double product(double x, double y) {}
+        ///  * public double product(double x, double y)
        public double product(double x, double y) {
            return x * y;
 
        }
    }
     public static void main(String[] args) {
+        //task2:
         //create object of Product in Main function called p
         Product p = new Product();
 
