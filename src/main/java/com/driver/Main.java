@@ -9,7 +9,7 @@ public class Main {
         }
 
         //Task 4:
-       // * create a Overloaded method product of following defination
+       // * create an Overloaded method product of following defination
        // * public int product(int x, int y, int z) {}
         public int product(int x, int y,int z)
         {
@@ -17,7 +17,7 @@ public class Main {
         }
 
         ///  Task 5
-        ///  * create a Overloaded method product of following defination
+        ///  * create an Overloaded method product of following definition
         ///  * public double product(double x, double y)
        public double product(double x, double y) {
            return x * y;
